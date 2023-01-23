@@ -1,0 +1,28 @@
+### Clase 1
+1. Comprender la mecánica del juego
+2. Crear el repositorio local
+3. Crear el repositorio remoto
+4. En el repositorio local, crear un archivo de nombre main.py
+5. Crear la ventana del juego
+
+Tarea:
+
+- Hacer que la ventana cierre presionando la tecla Esc
+- Hacer que la ventana tenga el título: Car Game in Pygame
+- Establecer un color personalizado para el fondo de la ventana
+
+Preguntas de repaso:
+
+- ¿Por qué es necesario importar la biblioteca pygame al
+programar un videojuego?
+
+- ¿Para qué sirve la instrucción pygame.locals import *?
+
+- ¿Por qué el ancho y el alto de la ventana deben ir 
+entre paréntesis al colocarlo dentro del comando set_mode?
+
+- ¿Cómo establezco el título de ventana de la app?
+
+- ¿Cómo establezco el color de fondo de la ventana?
+
+- ¿Cómo establezco el icono d ela ventana?
