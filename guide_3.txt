@@ -1,0 +1,38 @@
+### Parte 3
+1. Revisar el avance que se tiene hasta ahora.
+
+2. Verificar que todos los estudiantes hayan actualizado sus repositorios remotos
+con los últimos cambios introducidos en el código.
+
+3. Mostrar el objetivo de esta parte del proyecto (Dibujar mostrar las imágenes de 
+los carros en la vía).
+
+4. Cargar la imagen del carro del jugador.
+
+5. Obtener la ubicación de la imagen del carro del jugador.
+
+6. Centrar la imagen.
+
+7. Dibujar la imagen del carro del jugador.
+
+8. Actualizar la aplicación.
+
+9. Repetir los pasos anteriores para el carro del enemigo.
+
+
+Tarea:
+
+- Dibujar el carro del enemigo.
+- Actualizar repositorio remoto con los últimos cambios.
+
+
+Preguntas de repaso:
+
+- ¿Mediante qué instrucción podemos cargar imágenes en Pygame?
+
+- ¿Cómo puedo dibujar hacer que una imagen cargada se muestre en la ventana
+del juego?
+
+- ¿Por qué no se debería cargar una imagen mediante un código colocado dentro
+del bucle del juego?
+
