@@ -1,0 +1,38 @@
+### Parte 2
+1. Revisar el avance que se tiene hasta ahora.
+
+2. Verificar que todos los estudiantes hayan actualizado sus repositorios remotos
+con los últimos cambios introducidos en el código.
+
+3. Mostrar el objetivo de esta parte del proyecto (Dibujar la vía por la que 
+transitarán los carros).
+
+4. Declarar una variable que guardará el valor del ancho de la vía.
+
+5. Dibujar la vía a partir del método "draw" de Pygame.
+
+6. Declarar una variable que guardará el valor del ancho de una línea amarilla
+que está en el medio de la vía.
+
+7. Dibujar la línea de demarcación central a partir del método "draw" de Pygame.
+
+8. Dibujar dos líneas de demarcación laterales a partir del método "draw" de Pygame.
+
+9. Actualizar repositorio remoto con los cambios realizados.
+
+
+Tarea:
+
+- Dibujar la línea de demarcación derecha partiendo del código de la primera.
+- Actualizar repositorio remoto con los últimos cambios.
+
+
+Preguntas de repaso:
+
+- ¿Cuál es el método de Pygame que nos permite dibujar figuras?
+
+- ¿Cómo puedo dibujar un rectángulo en Pygame?
+
+- ¿Qué parámetros debo tomar en cuenta al dibujar un rectángulo con el comando
+"rect" de Pygame?
+
