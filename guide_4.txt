@@ -1,0 +1,40 @@
+#### Parte 4
+1. Revisar el avance que se tiene hasta ahora.
+
+2. Verificar que todos los estudiantes hayan actualizado sus repositorios remotos
+con los últimos cambios introducidos en el código.
+
+3. Mostrar el objetivo de esta parte del proyecto (Mover el carro
+del jugador con las flechas del teclado).
+
+4. Escribir un detector de eventos de presión de tecla.
+
+5. Programar el movimiento hacia la izquierda.
+
+6. Probar el código.
+
+7. Programar el movimiento hacia la derecha (TAREA)
+
+8. Probar el código.
+
+9. Corregir el error de multiplicación del sprite
+del jugador pegando las líneas de código de dibujo dela carretera dentro del ciclo
+while.
+
+10. Probar el código.
+
+
+Tarea:
+
+- Programar el movimiento hacia la izquierda del jugador.
+
+
+
+Preguntas de repaso:
+
+- ¿Mediante qué instrucción podemos programar la lógica
+de movimiento del jugador?
+
+- ¿Qué es un evento en Pygame?
+
+
